@@ -1,4 +1,5 @@
 .DS_Store
 env/*
 scripts/config.py
+scripts/*.pyc
 *.log
