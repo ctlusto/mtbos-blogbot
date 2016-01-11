@@ -127,6 +127,8 @@ def update_firebase():
     if updates:
         fb.patch('blogs/', fb_store, params=auth)
         print 'Updated %d records.' % updates
+    else:
+        print "Nothing to update."
 
 if __name__ == '__main__':
     update_firebase()
