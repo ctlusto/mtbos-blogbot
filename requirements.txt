@@ -1,0 +1,7 @@
+feedparser==5.2.1
+oauthlib==1.0.3
+python-firebase==1.2
+python-twitter==2.2
+PyYAML==3.11
+requests==2.9.1
+requests-oauthlib==0.6.0

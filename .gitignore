@@ -1,0 +1,4 @@
+.DS_Store
+env/*
+scripts/config.py
+*.log
