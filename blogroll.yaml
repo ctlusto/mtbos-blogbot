@@ -371,6 +371,9 @@ feed_url: 'http://www.mathgoespop.com/feed.xml'
 owner: '@mpershan'
 feed_url: 'http://mathmistakes.org/feed/'
 ---
+owner: '@mpershan'
+feed_url: 'https://problemproblems.wordpress.com/feed/'
+---
 owner: '@mr_stadel'
 feed_url: 'http://mr-stadel.blogspot.com/feeds/posts/default'
 ---
