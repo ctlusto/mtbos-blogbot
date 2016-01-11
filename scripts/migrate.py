@@ -39,7 +39,7 @@
 #     |
 #     +-- url: 'http://awesomeblog.com/path/to/feed'
 #     |
-#     +-- link: 'http://awesomeblog.com/posts/2016/4'
+#     +-- latest_link: 'http://awesomeblog.com/posts/2016/4'
 
 import feedparser
 import yaml
@@ -93,6 +93,9 @@ def update_firebase():
     yamlpath = path.join(path.dirname(__file__), '..', 'blogroll.yaml')
     blogroll = loadblogs(yamlpath)
     fb_store = fb.get('blogs/', None, params=auth)
+    if not fb_store: # Looking at a brand new Firebase store
+        fb_store = {'blogs': None}
+
     updates = 0
 
     print 'Migrating to database...'
@@ -101,8 +104,6 @@ def update_firebase():
     for blog in blogroll:
         url = blog['feed_url']
         clean_url = sanitize_url(url)
-        if not fb_store:
-            fb_store = {'blogs': None}
         if not clean_url in fb_store:
             feed_data = feedparser.parse(url)
             if not feed_data.bozo: # Ignore malformed XML
