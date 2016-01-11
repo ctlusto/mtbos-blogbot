@@ -84,7 +84,9 @@ If you want to check for updates and tweet them on a regular basis, you can run 
 Author
 ------
 Chris Lusto
+
 Twitter: [@Lustomatical](https://twitter.com/lustomatical)
+
 Site: [{math pun}](http://chrislusto.com/)
 
 License
