@@ -3,7 +3,7 @@ MTBoS Blogbot
 
 I, Robot
 --------
-This is the code that powers the [@MTBoS_Blogbot](https://twitter.com/MTBoS_Blogbot), for those of you who like your RSS feed Twitterfied. Follow the Blogbot or check out the [MTBoS Blogroll](http://www.mtbos-blogroll.org/) web page for hourly updates from blogs around the [mathtwitterblogosphere](http://mathtwitterblogosphere.weebly.com/), which is a pretty cool place. Even for a robot.
+This is the code that powers the [@MTBoS_Blogbot](https://twitter.com/MTBoS_Blogbot), for those of you who like your RSS feed Twitterfied. Follow the Blogbot or check out the [MTBoS Blogroll](http://www.mtbos-blogroll.org/) web page for regular updates from blogs around the [mathtwitterblogosphere](http://mathtwitterblogosphere.weebly.com/), which is a pretty cool place. Even for a robot.
 
 Adding Yourself to the Blogroll
 -------------------------------
@@ -68,7 +68,7 @@ The feeds you want to follow should live in `blogroll.yaml`. Just make sure that
 
 Save your changes and run:
 ```bash
-scripts/migrate.py
+make migrate
 ```
 Any feeds that aren't already in Firebase will be added to the database and have a current snapshot recorded.
 
@@ -76,7 +76,7 @@ Tweeting Updates
 ----------------
 To check for updates and tweet any new posts:
 ```bash
-python scripts/blogbot.py
+make publish
 ```
 
 If you want to check for updates and tweet them on a regular basis, you can run `blogbot.py` as a [Cron job](https://en.wikipedia.org/wiki/Cron). Just like a real robot.
