@@ -113,6 +113,9 @@ feed_url: 'http://blog.mrmeyer.com/feed/'
 owner: '@debboden'
 feed_url: 'https://debboden.wordpress.com/feed/'
 ---
+owner: '@delta_dc'
+feed_url: 'http://deltascape.blogspot.com/feeds/posts/default'
+---
 owner: '@difesmire'
 feed_url: 'https://dianafesmire.wordpress.com/feed/'
 ---
@@ -163,6 +166,9 @@ feed_url: 'http://8ismyluckynumber.blogspot.com/feeds/posts/default'
 ---
 owner: '@HowISeeGeometry'
 feed_url: 'https://howiseegeometry.wordpress.com/feed/'
+---
+owner: '@iisanumber'
+feed_url: 'http://iisanumber.blogspot.com/feeds/posts/default'
 ---
 owner: '@j_lanier'
 feed_url: 'http://ichoosemath.com/feed/'
