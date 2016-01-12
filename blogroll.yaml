@@ -101,6 +101,9 @@ feed_url: 'http://blog.recursiveprocess.com/feed/'
 owner: '@daneehlert'
 feed_url: 'http://whenmathhappens.com/feed/'
 ---
+owner: '@DavidGriswoldHH'
+feed_url: 'http://davidgriswoldhh.mtbos.org/feed/'
+---
 owner: '@davidpetro314'
 feed_url: 'http://engaging-math.blogspot.com/feeds/posts/default'
 ---
@@ -436,6 +439,9 @@ feed_url: 'http://musingmathematically.blogspot.com/feeds/posts/default'
 ---
 owner: '@nathankraft1'
 feed_url: 'http://nathankraft.blogspot.com/feeds/posts/default'
+---
+owner: '@nebusj'
+feed_url: 'https://nebusresearch.wordpress.com/feed/'
 ---
 owner: '@newmanmath'
 feed_url: 'https://hilbertshotel.wordpress.com/feed/'
