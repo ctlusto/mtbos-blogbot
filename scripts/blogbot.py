@@ -39,9 +39,13 @@ def tweetblog(title, author, url):
     {}
     """.format(title, author, url)
 
-    api.PostUpdate(message)
-    print message
-    logging.info(message)
+    try:
+      api.PostUpdate(message)
+      print message
+      logging.info(message)
+    except twitter.TwitterError as e:
+      print e
+      logging.error(e)
 
 def post_updates(res):
   """
