@@ -344,6 +344,9 @@ feed_url: 'https://tapintoteenminds.com/feed/'
 owner: '@mathminds'
 feed_url: 'https://mathmindsblog.wordpress.com/feed/'
 ---
+owner: '@MathMotionDan'
+feed_url: 'http://mathmotion.tumblr.com/rss'
+---
 owner: '@mathmunch'
 feed_url: 'http://mathmunch.org/feed/'
 ---
