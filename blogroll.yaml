@@ -152,6 +152,9 @@ feed_url: 'https://artofmathstudio.wordpress.com/feed/'
 owner: '@fnoschese'
 feed_url: 'https://fnoschese.wordpress.com/feed/'
 ---
+owner: '@fractionfanatic'
+feed_url: 'https://fractionfanatic.wordpress.com/feed/'
+---
 owner: '@Gelada'
 feed_url: 'http://maxwelldemon.com/edmund-harriss/feed/'
 ---
@@ -403,6 +406,9 @@ feed_url: 'http://mr-stadel.blogspot.com/feeds/posts/default'
 ---
 owner: '@mr_stadel'
 feed_url: 'http://www.estimation180.com/1/feed'
+---
+owner: '@MrAKHaines'
+feed_url: 'http://www.kenthaines.com/blog?format=rss'
 ---
 owner: '@mrdardy'
 feed_url: 'https://mrdardy.wordpress.com/feed/'
