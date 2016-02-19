@@ -155,6 +155,9 @@ feed_url: 'https://fnoschese.wordpress.com/feed/'
 owner: '@fractionfanatic'
 feed_url: 'https://fractionfanatic.wordpress.com/feed/'
 ---
+owner: '@FractionTalks'
+feed_url: 'http://www.fractiontalks.com/feeds/posts/default'
+---
 owner: '@Gelada'
 feed_url: 'http://maxwelldemon.com/edmund-harriss/feed/'
 ---
