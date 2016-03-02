@@ -143,6 +143,9 @@ feed_url: 'http://profteacher.com/feed/'
 owner: '@emergentmath'
 feed_url: 'http://emergentmath.com/feed/'
 ---
+owner: '@Ethan_MidPen'
+feed_url: 'https://mathematiciansmusings.wordpress.com/feed/'
+---
 owner: '@fawnnguyen'
 feed_url: 'http://fawnnguyen.com/feed/'
 ---
