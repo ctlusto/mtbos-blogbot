@@ -485,6 +485,9 @@ feed_url: 'https://clopendebate.wordpress.com/feed/'
 owner: '@planting_ideas'
 feed_url: 'http://planting-ideas.blogspot.com/feeds/posts/default'
 ---
+owner: '@quantgal67'
+feed_url: 'http://quantgal.com/feed/'
+---
 owner: '@racheldiep'
 feed_url: 'http://www.racheldiep.com/blog/?format=rss'
 ---
