@@ -350,6 +350,9 @@ feed_url: 'http://mathhombre.blogspot.com/feeds/posts/default'
 owner: '@mathhombre'
 feed_url: 'http://mathhombre.tumblr.com/rss'
 ---
+owner: '@mathinyourfeet'
+feed_url: 'https://mathinunexpectedspaces.wordpress.com/feed/'
+---
 owner: '@mathletepearce'
 feed_url: 'https://tapintoteenminds.com/feed/'
 ---
