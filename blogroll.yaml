@@ -29,6 +29,9 @@ feed_url: 'http://algebrasfriend.blogspot.com/feeds/posts/default'
 owner: '@allison_krasnow'
 feed_url: 'https://bedtimebits.wordpress.com/feed/'
 ---
+owner: '@allison_krasnow'
+feed_url: 'https://picrust.wordpress.com/feed/'
+---
 owner: '@allmanfiles'
 feed_url: 'http://coremath912.blogspot.com/feeds/posts/default'
 ---
