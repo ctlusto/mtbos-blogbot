@@ -47,6 +47,9 @@ feed_url: 'https://aofradkin.wordpress.com/feed/'
 owner: '@approx_normal'
 feed_url: 'http://approximatelynormalstats.blogspot.com/feeds/posts/default'
 ---
+owner: 'Ben Blum-Smith'
+feed_url: 'https://researchinpractice.wordpress.com/feed/'
+---
 owner: '@bkdidact'
 feed_url: 'https://thelearningkaleidoscope.wordpress.com/feed/'
 ---
