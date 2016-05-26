@@ -116,6 +116,9 @@ feed_url: 'http://blog.recursiveprocess.com/feed/'
 owner: '@daneehlert'
 feed_url: 'http://whenmathhappens.com/feed/'
 ---
+owner: '@DavidKButlerUoA'
+feed_url: 'https://blogs.adelaide.edu.au/maths-learning/feed/'
+---
 owner: '@DavidGriswoldHH'
 feed_url: 'http://davidgriswoldhh.mtbos.org/feed/'
 ---
