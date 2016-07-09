@@ -407,6 +407,9 @@ feed_url: 'http://mathprojects.com/feed/'
 owner: '@mathycathy'
 feed_url: 'http://www.mathycathy.com/blog/feed/'
 ---
+owner: '@mathtans'
+feed_url: 'http://mathiex.blogspot.com/feeds/posts/default/-/MTBoS'
+---
 owner: '@MathyMcMatherso'
 feed_url: 'https://mathymcmatherson.wordpress.com/feed/'
 ---
