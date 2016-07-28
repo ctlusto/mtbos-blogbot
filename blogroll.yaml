@@ -95,6 +95,9 @@ feed_url: 'https://ckhannon.wordpress.com/feed/'
 owner: '@CHarrisMath'
 feed_url: 'https://newmathcoach.wordpress.com/feed/'
 ---
+owner: '@chatelet0211'
+feed_url: 'https://hazeleyedmathnut.blogspot.com/feeds/posts/default'
+---
 owner: '@CHaugneland'
 feed_url: 'http://www.addingsparkle.com/feeds/posts/default'
 ---
@@ -367,6 +370,9 @@ feed_url: 'http://transformulas.org/feed/'
 ---
 owner: '@mathbutler'
 feed_url: 'https://mathbutler.wordpress.com/feed/'
+---
+owner: '@MathByTori'
+feed_url: 'http://mathbytori.blogspot.com/feeds/posts/default'
 ---
 owner: '@mathcurmudgeon'
 feed_url: 'http://matharguments180.blogspot.com/feeds/posts/default'
