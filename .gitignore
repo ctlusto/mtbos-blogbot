@@ -3,3 +3,4 @@ env/*
 scripts/config.py
 scripts/*.pyc
 *.log
+node_modules
