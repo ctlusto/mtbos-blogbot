@@ -53,6 +53,9 @@ feed_url: 'http://approximatelynormalstats.blogspot.com/feeds/posts/default'
 owner: '@aprilf4175'
 feed_url: 'https://themindofanaprilfool.com/feed/'
 ---
+owner: '@a_schindy'
+feed_url: 'http://burnsmath.blogspot.com/feeds/posts/default'
+---
 owner: 'Ben Blum-Smith'
 feed_url: 'https://researchinpractice.wordpress.com/feed/'
 ---
@@ -439,6 +442,9 @@ feed_url: 'http://www.megcraig.org/?feed=rss2'
 ---
 owner: '@maxmathforum'
 feed_url: 'http://mathforum.org/blogs/max/feed/'
+---
+owner: '@Mcoaty'
+feed_url: 'https://mattcoaty.com/feed/'
 ---
 owner: '@melomania'
 feed_url: 'https://exceptmathteachers.wordpress.com/feed/'
