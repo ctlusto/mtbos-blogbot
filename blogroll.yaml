@@ -56,7 +56,7 @@ feed_url: 'https://themindofanaprilfool.com/feed/'
 owner: '@a_schindy'
 feed_url: 'http://burnsmath.blogspot.com/feeds/posts/default'
 ---
-owner: 'Ben Blum-Smith'
+owner: '@benblumsmith'
 feed_url: 'https://researchinpractice.wordpress.com/feed/'
 ---
 owner: '@bkdidact'
@@ -652,6 +652,9 @@ feed_url: 'http://sweeneymath.blogspot.com/feeds/posts/default'
 ---
 owner: '@tamillewellyn'
 feed_url: 'http://mathlikeyoumeanit.com/feed/'
+---
+owner: '@TAnnalet'
+feed_url: 'https://telannannalet.wordpress.com/feed/'
 ---
 owner: '@tbgill'
 feed_url: 'https://amathlife.wordpress.com/feed/'
