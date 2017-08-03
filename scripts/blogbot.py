@@ -43,10 +43,10 @@ def tweetblog(title, author, url):
 
     try:
       api.PostUpdate(message)
-      print(message)
+      print message
       logging.info(message)
     except twitter.TwitterError as e:
-      print(e)
+      print e
       logging.error(e)
 
 def post_updates(res):
@@ -55,7 +55,7 @@ def post_updates(res):
   """
 
   updates = 0
-  print('Parsing feeds...')
+  print 'Parsing feeds...'
 
   for blog, data in res.iteritems():
     current_etag = data.get('etag')
@@ -69,7 +69,7 @@ def post_updates(res):
                                  etag=current_etag,
                                  modified=current_modified)
 
-    print(current_url)
+    print current_url
     logging.info(current_url)
     if feed_data.bozo:
       logging.info('Got malformed XML.')
@@ -107,7 +107,7 @@ def post_updates(res):
   if updates:
     fb.patch('blogs/', res, params=auth)
 
-  print('Posted %d update(s).' % updates)
+  print 'Posted %d update(s).' % updates
   logging.info('Posted %d update(s).' % updates)
 
 # DO ALL THE THINGS
