@@ -21,6 +21,7 @@ logging.basicConfig(format='%(levelname)s:%(message)s',
                     filename=os.path.join(root_dir, '..', 'blogbot.log'))
 
 # Firebase setup
+print FIREBASE_URL
 fb = firebase.FirebaseApplication(FIREBASE_URL, None)
 auth = {'auth': FIREBASE_SECRET}
 
