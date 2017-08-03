@@ -4,12 +4,14 @@ import logging
 import os
 from firebase import firebase
 from strongetags import stripweak
-from config import (FIREBASE_URL,
-                    FIREBASE_SECRET,
-                    TWITTER_API_KEY,
-                    TWITTER_API_SECRET,
-                    TWITTER_ACCESS_TOKEN,
-                    TWITTER_TOKEN_SECRET)
+
+# Environment variables
+FIREBASE_URL = os.environ.get('FIREBASE_URL')
+FIREBASE_SECRET = os.environ.get('FIREBASE_SECRET')
+TWITTER_API_KEY = os.environ.get('TWITTER_API_KEY')
+TWITTER_API_SECRET = os.environ.get('TWITTER_API_SECRET')
+TWITTER_ACCESS_TOKEN = os.environ.get('TWITTER_ACCESS_TOKEN')
+TWITTER_TOKEN_SECRET = os.environ.get('TWITTER_TOKEN_SECRET')
 
 # Logging setup
 root_dir = os.path.abspath(os.path.dirname(__file__))
@@ -109,4 +111,4 @@ def post_updates(res):
   logging.info('Posted %d update(s).' % updates)
 
 # DO ALL THE THINGS
-fb.get_async('blogs/', None, params=auth, callback=post_updates)
+# fb.get_async('blogs/', None, params=auth, callback=post_updates)
