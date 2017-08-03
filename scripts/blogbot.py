@@ -113,4 +113,4 @@ def post_updates(res):
 
 # DO ALL THE THINGS
 # fb.get_async('blogs/', None, params=auth, callback=post_updates)
-api.PostUpdate('You humans have been giving me a workout lately.')
+api.PostUpdate('I am attempting to deduce your conference schedule from your blogging patterns.')
