@@ -112,5 +112,4 @@ def post_updates(res):
   logging.info('Posted %d update(s).' % updates)
 
 # DO ALL THE THINGS
-# fb.get_async('blogs/', None, params=auth, callback=post_updates)
-api.PostUpdate('I am attempting to deduce your conference schedule from your blogging patterns.')
+fb.get_async('blogs/', None, params=auth, callback=post_updates)
