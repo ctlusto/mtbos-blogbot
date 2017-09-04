@@ -230,6 +230,9 @@ feed_url: 'https://howiseegeometry.wordpress.com/feed/'
 owner: '@HTheijsmeijer'
 feed_url: 'http://byodasap.blogspot.com/feeds/posts/default'
 ---
+owner: '@HTheijsmeijer'
+feed_url: 'http://modelthelearning.blogspot.com/feeds/posts/default'
+---
 owner: '@HthrLynnJ'
 feed_url: 'https://hthrlynnj.wordpress.com/feed/'
 ---
@@ -549,7 +552,7 @@ owner: '@mwekter'
 feed_url: 'http://rebuildinganempire.blogspot.com/feeds/posts/default'
 ---
 owner: '@natbanting'
-feed_url: 'http://musingmathematically.blogspot.com/feeds/posts/default'
+feed_url: 'http://natbanting.com/feed'
 ---
 owner: '@nathankraft1'
 feed_url: 'http://nathankraft.blogspot.com/feeds/posts/default'
