@@ -29,6 +29,9 @@ feed_url: 'https://algebrainiac.wordpress.com/feed/'
 owner: '@algebrasfriend'
 feed_url: 'http://algebrasfriend.blogspot.com/feeds/posts/default'
 ---
+owner: '@AllenMath'
+feed_url: 'https://uncoverunderstanding.blogspot.ca/feeds/posts/default'
+---
 owner: '@allison_krasnow'
 feed_url: 'https://bedtimebits.wordpress.com/feed/'
 ---
