@@ -422,6 +422,9 @@ feed_url: 'http://mathequalslove.blogspot.com/feeds/posts/default'
 owner: '@MathFireworks'
 feed_url: 'http://www.mathfireworks.com/feed/'
 ---
+owner: '@mathhayes'
+feed_url: 'https://hayesworldofmath.wordpress.com/feed/'
+---
 owner: '@mathhombre'
 feed_url: 'http://mathhombre.blogspot.com/feeds/posts/default'
 ---
