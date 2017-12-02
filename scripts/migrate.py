@@ -106,7 +106,7 @@ def update_firebase():
         clean_url = sanitize_url(url)
         if not clean_url in fb_store:
             feed_data = feedparser.parse(url)
-            if not feed_data.bozo: # Ignore malformed XML
+            if feed_data.get('entries') and not feed_data.bozo: # Ignore malformed XML
                 print 'Adding %s to the database.' % url
                 updates += 1
                 modified = feed_data.get('modified')
